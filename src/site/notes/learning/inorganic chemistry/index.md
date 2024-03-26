@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/inorganic-chemistry/index/"}
+{"dg-publish":true,"permalink":"/learning/inorganic-chemistry/index/","dgPassFrontmatter":true}
 ---
 
 
