@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/index/"}
+{"dg-publish":true,"permalink":"/learning/index/","dgPassFrontmatter":true}
 ---
 
 
