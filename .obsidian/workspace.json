@@ -156,7 +156,8 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
   "active": "0689ad1f36d9250a",
