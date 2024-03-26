@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/organic-chemistry/index/"}
+{"dg-publish":true,"permalink":"/learning/organic-chemistry/index/","dgPassFrontmatter":true}
 ---
 
 
