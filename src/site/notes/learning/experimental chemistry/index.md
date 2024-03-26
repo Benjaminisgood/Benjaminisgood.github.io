@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/learning/experimental-chemistry/index/"}
+{"dg-publish":true,"permalink":"/learning/experimental-chemistry/index/","dgPassFrontmatter":true}
 ---
 
 
