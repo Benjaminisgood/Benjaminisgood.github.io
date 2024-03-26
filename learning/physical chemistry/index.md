@@ -1,3 +1,0 @@
-# table of phiscal chemistry
-
-
