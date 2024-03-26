@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//index/"}
+{"dg-publish":true,"permalink":"//index/","dgPassFrontmatter":true}
 ---
 
 就一打工的，
