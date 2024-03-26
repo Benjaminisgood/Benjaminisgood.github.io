@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "53ddfb9cd08ef1fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef31c4d670b917dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a5bee445c008275",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "首页.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77a47fb74a193bf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "899734cd0ea19c32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "057f00a7cd8be4c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e94ccea49a59fd5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a36dec983d10666",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5ed1266991b66bea",
+    "type": "split",
+    "children": [
+      {
+        "id": "00b6d6bfb5cf3d30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37a7a5b36d772a9a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "首页.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27148afa6ce28157",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "首页.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e63a3c4b8874712c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2d7b0177d86740c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "首页.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "3a5bee445c008275",
+  "lastOpenFiles": [
+    "首页.md"
+  ]
+}
